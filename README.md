@@ -7,12 +7,14 @@
 🎯 Estudante de Análise e Desenvolvimento de Sistemas, buscando oportunidades para colaborar em projetos que façam a diferença e agregar valor ao time.
 
 🔧 Competências em Desenvolvimento:  
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-Logo" width="90px" height="28px"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-Logo" width="90px" height="28px" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-Logo" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Logo" width="90px" height="28px" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Logo-Bootstrap" />
+<p align="left">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="HTML-Logo" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS-Logo" width="px" height="40px" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuLWERwi90PN2IoCWdskisemYu8k1R1CxtA&s" width="px" height="40px" />
+<img src="https://www.ideematic.com/wp-content/uploads/2018/05/react-JS-developpement-web.png" alt="React-Logo" width="px" height="40px" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-language-pack-logos-icons-1175203.png?f=webp&w=256" alt="Logo-Bootstrap" width="px" height="40px" />
+</p>
+<img align="center" alt="Coding" width="400" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0c34272909ee2a4db5606a014082312b%2Ftenor.gif%3Fitemid%3D15828752" />
 
 📩 Para entrar em contato comigo:
 
@@ -23,9 +25,10 @@ Email:ricardo.sanches.dev@gmail.com
 
 
 
-🔍 Pronto para novos desafios no mundo da tecnologia, sempre aprendendo e evoluindo!
+🔍 Pronto para novos desafios no mundo da tecnologia, sempre aprendendo e evoluindo!  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Sanchess&theme=dark&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Sanchess&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ricardo-Sanchess&show_icons=true&theme=radical)
 
 
 
